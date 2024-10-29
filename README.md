@@ -76,13 +76,9 @@ Perfect for developers who:
 - Regularly use GPT for coding help or project overviews.
 - Want a lightweight, no-fuss solution to work with GPT faster.
 
-## 🤝 Contributing
-
-Got ideas? Found a bug? Open an issue or pull request – contributions are always welcome!
-
 ## 📢 Stay in Touch!
 
-This tool is part of **AI-wrench**, a series of simple tools to boost AI engineering productivity. Follow for more at [AI-wrench on GitHub](http://www.github.com/zihanwang314/AI-wrench)!
+This tool is part of **AI-wrench**, a series of simple tools to boost AI engineering productivity. Follow for more at [AI-wrench on GitHub](http://www.github.com/zihanwang314/AI-wrench)! You can create a github issue or contact [Zihan Wang](zihanwang314.github.io) if you need help on running code or have any suggestions.
 
 ---
 
