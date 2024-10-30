@@ -5,10 +5,9 @@
 
 ## ✨ Features
 
-- 🚀 **One-Line Command**: Capture your entire codebase with a single line.
-- 📝 **Customizable Output**: Get a clear report of all files, functions, and classes.
-- ⏱️ **Saves Time**: No more explaining your code to GPT from scratch!
-- 🌍 **Works with Any Project**: Just point it to your codebase, and it does the rest.
+- **One-Line Command**: Capture your entire codebase with a single line.
+- **Saves Time**: No more explaining your code to GPT from scratch!
+- **Works with Any Project**: Just point it to your codebase, and it does the rest.
 
 ## 📦 Installation
 
@@ -18,11 +17,7 @@ First, clone this repo:
 git clone https://github.com/ZihanWang314/dump-to-gpt
 cd dump-to-gpt
 ```
-
-## 🚀 Quick Start
-
-Generate a report with just one line:
-
+Then, Generate a report with just one line:
 ```bash
 python main.py --dir my_project
 ```
